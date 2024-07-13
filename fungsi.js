@@ -11,3 +11,8 @@ const divide = (a,b) => a / b;
 console.log(divide(10,2))
 
 console.log("belajar bersama sepuh gading")
+
+
+
+
+console.log("tambah fitur logout")
