@@ -21,3 +21,4 @@ console.log(kali(4,3));
 
 
 console.log("tambah fitur logout")
+console.log("tambah fitur logout")
