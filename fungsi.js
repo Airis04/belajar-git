@@ -22,3 +22,6 @@ console.log(kali(4,3));
 
 console.log("tambah fitur logout")
 console.log("tambah fitur logout")
+
+const mathsin =  (Number)=> Math.sin(Number)
+console.log(mathsin(90));
